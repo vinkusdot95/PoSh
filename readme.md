@@ -1,1 +1,1 @@
-# Powerhsell script repo
+# PowerShell script repo
